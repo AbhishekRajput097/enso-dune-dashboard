@@ -1,0 +1,29 @@
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_ethereum
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_bnb
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_optimism
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_polygon
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_gnosis
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_base
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_linea
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_zksync
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_avalanche_c
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_unichain
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_berachain
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_sonic
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_abstract
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_plume
+UNION ALL
+select * from dune.enso_finance.result_defillama_analytics_fetch_all_erc_20_in_tx_hash_katana

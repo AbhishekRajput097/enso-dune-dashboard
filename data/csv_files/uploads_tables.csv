@@ -1,0 +1,25 @@
+full_name,is_private,table_size_bytes,table_size_human
+dune.enso_finance.dataset_account_ids,True,156566,152.90 KB
+dune.enso_finance.dataset_active_addresses_with_data,True,194278,189.72 KB
+dune.enso_finance.dataset_active_users,True,154437,150.82 KB
+dune.enso_finance.dataset_addresses,True,516075,503.98 KB
+dune.enso_finance.dataset_airdrop_erc20_transfers_and_internal_transfers_to_strategies_vampire_attack_base,True,2585665,2.47 MB
+dune.enso_finance.dataset_airdrop_user_deposit_and_withdraw_to_and_from_liquidity_migration_and_strategy_contracts_vampire_att,True,1150855,1.10 MB
+dune.enso_finance.dataset_berachain_boyco_rollover_prices,False,4770,4.66 KB
+dune.enso_finance.dataset_defi_tokens_20250321_all,True,2905291,2.77 MB
+dune.enso_finance.dataset_defi_tokens_20250326_all,True,5796323,5.53 MB
+dune.enso_finance.dataset_defi_tokens_berachain_2025_04_03,True,26448,25.83 KB
+dune.enso_finance.dataset_defi_tokens_uniswap_20250326_all,True,5335737,5.09 MB
+dune.l33t_squad.dataset_dune_dataset_3718935_defillama_price_enriched,True,9750720,9.30 MB
+dune.l33t_squad.dataset_dune_dataset_3778974_decimals_enriched,True,106579,104.08 KB
+dune.enso_finance.dataset_dune_defi_tokens_2025_03_25,True,412072,402.41 KB
+dune.enso_finance.dataset_hyperevm_scan_export,True,153378,149.78 KB
+dune.enso_finance.dataset_kodiak_baults,True,1041,1.02 KB
+dune.enso_finance.dataset_manual_tx_backfill,True,7801,7.62 KB
+dune.enso_finance.dataset_protocol_map,True,2230,2.18 KB
+dune.enso_finance.dataset_shortcut_events,True,2037453,1.94 MB
+dune.enso_finance.dataset_shortcut_events_2025_08_11,True,2037475,1.94 MB
+dune.enso_finance.dataset_small_protocol_tokens_20250325_110534,True,371728,363.02 KB
+dune.enso_finance.dataset_velvetdata,True,1316763,1.26 MB
+dune.enso_finance.dataset_velvetdata_export,True,393841,384.61 KB
+dune.enso_finance.kinetiq_shortcut_events,True,267053612,254.68 MB
